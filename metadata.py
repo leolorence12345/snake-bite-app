@@ -49,6 +49,7 @@ PLACE= {
 
        }
 
+
 LOCAL_SYMPTOMS={
     "pain": [6, 6, 8, 1],
     "swelling": [4.5, 4.5, 6.5, 1],
